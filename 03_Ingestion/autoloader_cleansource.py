@@ -4,7 +4,7 @@ landing_schema = "00_landing"
 
 base_path = f"/Volumes/{landing_catalog}/{landing_schema}/claims"
 source_path = f"{base_path}/images"
-archive_path = f"{base_path}/archive"
+###archive_path = f"{base_path}/archive"
 metadata_path = f"{base_path}/autoloader_metadata"
 
 claim_images_df = (
